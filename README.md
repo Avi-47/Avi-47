@@ -68,12 +68,24 @@
 
 <h2>🧩 Open Source</h2>
 
+<h2>🧩 Open Source</h2>
+
 <h3>Kornia</h3>
 
 <ul>
 <li>Contributing to computer vision tooling</li>
 <li>Improving ML ecosystem utilities</li>
 <li>Performance focused implementations</li>
+<li>Working on documentation improvements and tensor operation utilities</li>
+</ul>
+
+<h3>MOFA</h3>
+
+<ul>
+<li>Contributing to ML orchestration and agent-based workflows</li>
+<li>Working on improving execution pipelines and system architecture</li>
+<li>Helping enhance scalability and modular ML infrastructure</li>
+<li>Focus on real-world ML workflow automation</li>
 </ul>
 
 <h3>ML Tooling & Systems</h3>
@@ -82,6 +94,7 @@
 <li>Experimentation frameworks</li>
 <li>Model optimization pipelines</li>
 <li>Efficient inference workflows</li>
+<li>Building tools that bridge ML research and production systems</li>
 </ul>
 
 ---
