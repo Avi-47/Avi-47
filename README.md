@@ -1,16 +1,25 @@
+<!-- ===================== HEADER ===================== -->
+
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=38&duration=1500&pause=850&color=1FFF0F&vCenter=true&width=690&lines=Hi%2C+I'm+Avimanyu!;Machine+Learning+Systems+Enthusiast;Rust+%7C+Python+%7C+ML+Infrastructure" />
-
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=avi-47&color=brightgreen"/>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=38&duration=1500&pause=850&color=1FFF0F&vCenter=true&width=690&lines=Hi%2C+I'm+Avimanyu!;Machine+Learning+Engineer;Rust+%7C+Python+%7C+Systems+%2B+ML)](https://git.io/typing-svg)
 
 </div>
 
----
+<br/>
 
-<h2>🚀 About Me</h2>
+<div id="header">
+
+🔭 **LinkedIn**: <a href="https://www.linkedin.com/in/avimanyu-goswami-995884284/">linkedin.com/in/avimanyu-goswami</a><br>
+📫 **Email**: <a href="mailto:avimanyugoswami02@gmail.com">avimanyugoswami02@gmail.com</a><br>
+🧠 **Codeforces**: <a href="https://codeforces.com/profile/avimanyugoswami02">codeforces.com/avimanyugoswami02</a><br>
+⚡ **LeetCode**: <a href="https://leetcode.com/u/avi_ju/">leetcode.com/u/avi_ju</a>
+
+</div>
+
+<br/>
+
+## 🚀 About Me
 
 <ul>
 <li>🎓 Electrical Engineering Undergraduate — <b>Jadavpur University</b></li>
