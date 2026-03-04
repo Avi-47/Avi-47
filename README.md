@@ -45,16 +45,6 @@
 
 ---
 
-<h2>🔗 Connect With Me</h2>
-
-<ul>
-<li>LinkedIn: <a href="https://www.linkedin.com/in/avimanyu-goswami-995884284/">linkedin.com/in/avimanyu-goswami</a></li>
-<li>Email: <a href="mailto:avimanyugoswami02@gmail.com">avimanyugoswami02@gmail.com</a></li>
-<li>Codeforces: <a href="https://codeforces.com/profile/avimanyugoswami02">codeforces.com/avimanyugoswami02</a></li>
-<li>LeetCode: <a href="https://leetcode.com/u/avi_ju/">leetcode.com/u/avi_ju</a></li>
-</ul>
-
----
 
 <h2>🧪 Research Experience</h2>
 
@@ -107,27 +97,37 @@
 
 ---
 
-<h2>🛠 Tech Stack</h2>
+<!-- <h2>🛠 Tech Stack</h2> -->
 
-<h3>Languages</h3>
 
-<img src="https://img.shields.io/badge/Java-darkblue?style=flat&logo=java&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-darkblue?style=flat&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Rust-darkblue?style=flat&logo=rust&logoColor=white"/>
-<img src="https://img.shields.io/badge/C-darkblue?style=flat&logo=c&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-darkblue?style=flat&logo=javascript&logoColor=white"/>
+## 🛠️ Tech Stack
 
-<br><br>
+<table>
+  <tr>
+    <td><strong>Languages</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/Java-darkblue?style=flat&logo=java&logoColor=white" />
+      <img src="https://img.shields.io/badge/Python-darkblue?style=flat&logo=python&logoColor=white" />
+      <img src="https://img.shields.io/badge/Rust-darkblue?style=flat&logo=rust&logoColor=white" />
+      <img src="https://img.shields.io/badge/JavaScript-darkblue?style=flat&logo=javascript&logoColor=white" />
+      <img src="https://img.shields.io/badge/C-darkblue?style=flat&logo=c&logoColor=white" />
+    </td>
+  </tr>
 
-<h3>ML & Tools</h3>
-
-<img src="https://img.shields.io/badge/PyTorch-darkgreen?style=flat&logo=pytorch&logoColor=white"/>
-<img src="https://img.shields.io/badge/Scikit--learn-darkgreen?style=flat&logo=scikitlearn&logoColor=white"/>
-<img src="https://img.shields.io/badge/NumPy-darkgreen?style=flat&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/Linux-informational?style=flat&logo=linux&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-informational?style=flat&logo=git&logoColor=white"/>
+  <tr>
+    <td><strong>ML & Tools</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/PyTorch-darkgreen?style=flat&logo=pytorch&logoColor=white" />
+      <img src="https://img.shields.io/badge/Scikit--learn-darkgreen?style=flat&logo=scikitlearn&logoColor=white" />
+      <img src="https://img.shields.io/badge/NumPy-darkgreen?style=flat&logo=numpy&logoColor=white" />
+      <img src="https://img.shields.io/badge/Linux-informational?style=flat&logo=linux&logoColor=white" />
+      <img src="https://img.shields.io/badge/Git-informational?style=flat&logo=git&logoColor=white" />
+    </td>
+  </tr>
+</table>
 
 ---
+
 
 <h2>📊 GitHub Stats</h2>
 
