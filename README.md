@@ -68,8 +68,6 @@
 
 <h2>🧩 Open Source</h2>
 
-<h2>🧩 Open Source</h2>
-
 <h3>Kornia</h3>
 
 <ul>
