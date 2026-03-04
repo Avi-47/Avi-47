@@ -141,14 +141,6 @@
 
 ---
 
-<h2>📈 Most Used Languages</h2>
-
-<p align="center">
-<img height="165" 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=avi-47&layout=compact&theme=tokyonight&v=2"/>
-</p>
-
----
 
 <h2>📊 GitHub Activity Graph</h2>
 
@@ -169,9 +161,8 @@
 <h2>🐍 Contribution Snake</h2>
 
 <p align="center">
-<img src="https://github.com/platane/snk/raw/output/github-contribution-grid-snake.svg"/>
+  <img src="https://github.com/platane/snk/raw/output/github-contribution-grid-snake.svg" width="700"/>
 </p>
-
 ---
 
 <h2>🎯 Current Focus</h2>
