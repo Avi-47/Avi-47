@@ -2,8 +2,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=38&duration=1500&pause=850&color=1FFF0F&vCenter=true&width=690&lines=Hi%2C+I'm+Avimanyu!;Machine+Learning+Engineer;Rust+%7C+Python+%7C+Systems+%2B+ML)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=38&duration=1500&pause=850&color=1FFF0F&vCenter=true&width=690&lines=Hi%2C+I'm+Avimanyu!;Machine+Learning+Engineer;Rust+%7C+Python+%7C+Java+%7C+Systems+%2B+ML)](https://git.io/typing-svg)
 </div>
 
 <br/>
